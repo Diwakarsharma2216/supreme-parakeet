@@ -195,7 +195,7 @@ Change typewriter `typeString` to your needs.
                   .typeString("Problem solver")
                   .pauseFor(2500)
                   .deleteAll()
-                  .typeString("Krzysztof Pantak")
+                  .typeString("Diwakar Sharma")
                   .callFunction(() => {
                     setIsLoaded(true)
                   })
